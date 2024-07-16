@@ -28,4 +28,4 @@ jobs:
       run: flake8 .
 
     - name: Run script
-      run: python hello.p 
+      run: python hello.py
